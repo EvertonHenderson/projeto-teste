@@ -24,6 +24,8 @@ int main(){
  //mostrar o resultado
  printf("Distancia:  %f" ,distancia);
 
+ //nao sei o que devo fazer
+
 
 
 
