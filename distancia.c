@@ -7,7 +7,9 @@ float calculaDistancia (int x1, int y1, int x2, int y2) {
 }
 //main
 int main(){
-
+ //definiçao das variaveis
+ int X1,y1,x2,y2;
+ float distancia;
 
 
 
